@@ -1,7 +1,7 @@
 <template>
   <div class="header">
     
-  <div v-bind:title="msg">Wecome Vue </div>
+  <div v-bind:title="msg">Wecome Vue dddd</div>
 <heade></heade>
 
 
